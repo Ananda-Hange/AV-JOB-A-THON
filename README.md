@@ -22,3 +22,5 @@ Test data is further randomly divided into Public (40%) and Private (60%) data. 
   * Private LB : 735th Rank
   
 More than 10k participant participate to this competition.
+
+Link : https://datahack.analyticsvidhya.com/contest/job-a-thon/?utm_source=auto-email#LeaderBoard
